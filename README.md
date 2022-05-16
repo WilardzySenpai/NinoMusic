@@ -3,6 +3,8 @@
   NinoMusic ❤
 </h1>
 
+# 💌 Remember
+Nino is a simple music bot on discord that can support Spotify, SoundCloud and YouTube also Nino can play a direct music link, don't you know that? pretty cool isn't. We hope that Nino can bring happiness to your server's and play Music whenever you all in vc, Thank you!
 
 ## 💻 Requirements
 1. Nodejs 16 or higher: **[Link](https://nodejs.org)**
