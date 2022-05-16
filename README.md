@@ -30,14 +30,14 @@ A full list of commands for use with NinoMusic
 
 | Command               | Description                                                                                                               | Usage                                                 |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| /play                 | Play a song from YouTube, SoundCloud, & Spotify                                                                           | /play darude sandstorm                                |
-| /pause                | Pause the current playing song                                                                                            | /pause                                                |
-| /resume               | Resume the current paused song                                                                                            | /resume                                               |
-| /leave                | Leaves voice channel if in one                                                                                            | /leave                                                |
-| /remove               | Remove a specific song from queue by its number in queue                                                                  | /remove 4                                             |
-| /queue                | Display the song queue                                                                                                    | /queue                                                |
-| /shuffle              | Shuffle the song queue                                                                                                    | /shuffle                                              |
-| /skip                 | Skip the current playing song                                                                                             | /skip                                                 |
+| /play                 | Play a song from YouTube, SoundCloud, & Spotify                                                                           | /play mtc s3rl                                |
+| /pause                | Pause the current playing music                                                                                           | /pause                                                |
+| /resume               | Resume the pause music                                                                                                    | /resume                                               |
+| /stop                 | Stop the music                                                                                                            | /stop                                                |
+| /autoplay             | Autoplay music for you                                                                                                    | /autoplay                                              |
+| /loop                 | Loop the current music or the queqe                                                                                       | /loop                                                |
+| /queue                | Show all the music you played                                                                                             | /queue                                              |
+| /volume               | Adjust the volume of the music                                                                                            | /volume 999 / infinite volume mate                                                 |
 | /skipall              | Skip all songs in queue                                                                                                   | /skipall                                              |
 | /skipto               | Skip to a specific song in the queue, provide the song number as an argument                                              | /skipto 5                                             |
 | /volume               | Adjust song volume                                                                                                        | /volume 80                                            |
