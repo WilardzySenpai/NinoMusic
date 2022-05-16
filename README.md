@@ -61,3 +61,12 @@ A full list of commands for use with NinoMusic
 | /filterlist           | Display all the filter Nino has                                                                                           | /filterlist                                                |
 
 
+## Misc
+
+| Command               | Description                                                                                                               | Usage                                                 |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| /avatar               | Get the user avatar `png or jpg`                                                                                          | /ping                                |
+| /nino                 | Genrates random Nino pictures                                                                                             | /help                                                |
+| /rps                  | Play Rock Paper Scissors                                                                                                  | /links                                               |
+| /say                  | Say something and i will copy it                                                                                          | /filterlist                                                |
+
