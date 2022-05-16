@@ -47,9 +47,5 @@ A full list of commands for use with NinoMusic
 | /filter               | Put a filter to a song                                                                                                    | /filter 8D                                          |
 | /lyric                | Find a song lyrics you type in                                                                                            | /lyric <song name>                                             |
 | /join                 | Nino will join the channel with you <3                                                                                                 | /join                                        |
-| /create-playlist      | Create a custom playlist                                                                                                  | /create-playlist 'playlistname'                       |
-| /save-to-playlist     | Add a song or playlist to a custom playlist                                                                               | /save-to-playlist 'playlistname' 'yt or spotify url'  |
-| /remove-from-playlist | Remove a track from a custom playlist                                                                                     | /remove-from-playlist 'playlistname' 'track location' |
-| /my-playlists         | Display your custom playlists                                                                                             | /my-playlists                                         |
-| /display-playlist     | Display a custom playlist                                                                                                 | /display-playlist 'playlistname'                      |
-| /delete-playlist      | remove a custom playlist                                                                                                  | /delete-playlist 'playlistname'                       |
+| /previous             | Plays the previous song in the queue                                                                                                  | /previous                       |
+| /skipto               | Skip to a song in the queue                                                                                              | /skipto 5   |                     |
