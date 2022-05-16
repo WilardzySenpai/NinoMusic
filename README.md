@@ -65,8 +65,8 @@ A full list of commands for use with NinoMusic
 
 | Command               | Description                                                                                                               | Usage                                                 |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| /avatar               | Get the user avatar `png or jpg`                                                                                          | /ping                                |
-| /nino                 | Genrates random Nino pictures                                                                                             | /help                                                |
-| /rps                  | Play Rock Paper Scissors                                                                                                  | /links                                               |
-| /say                  | Say something and i will copy it                                                                                          | /filterlist                                                |
+| /avatar               | Get the user avatar `png or jpg`                                                                                          | /avatar                                |
+| /nino                 | Genrates random Nino pictures                                                                                             | /nino                                                |
+| /rps                  | Play Rock Paper Scissors                                                                                                  | /rps                                               |
+| /say                  | Say something and i will copy it                                                                                          | /say                                                |
 
