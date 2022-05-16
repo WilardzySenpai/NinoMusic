@@ -4,18 +4,7 @@
 </h1>
 
 # 💌 Remember
-Nino is a simple music bot on discord that can support Spotify, SoundCloud and YouTube also Nino can play a direct music link, don't you know that? pretty cool isn't. We hope that Nino can bring happiness to your server's and play Music whenever you all in vc, Thank you!
-
-## 💻 Requirements
-1. Nodejs 16 or higher: **[Link](https://nodejs.org)**
-2. Git: **[Link](https://git-scm.com)**
-3. Discord Bot Token: **[Link](https://discord.com/developers/applications)**
-
-## Getting Started
-Before you start editing or forking this code you should have a basic knowledge of JavaScript and Discord.js v12. Having a basic knowledge will help you to not get a error by running or let's say you won't get confused. Basic Knowledge means you should know the basic functions and Syntax's.
-
-## Create Discord Application
-Go to [Discord Developer Portal](https://discord.com/developers/applications) and click "New Application" then name your application then click "Create". Now head over to Bot. Click Add Bot, then you customize the name and avatar(If youd like). Now lets get coding.
+Nino is a simple music bot on discord that can support Spotify, SoundCloud and YouTube also Nino can play a direct music link, don't you know that? pretty cool isn't. We hope that Nino can bring happiness to your server's and play Music whenever you all in vc with the very high quality audio, Thank you!
 
 ## Supported sources and formats
 - YouTube
@@ -41,7 +30,7 @@ A full list of commands for use with NinoMusic
 
 | Command               | Description                                                                                                               | Usage                                                 |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| /play                 | Play any song or playlist from youtube, you can do it by searching for a song by name or song url or playlist url         | /play darude sandstorm                                |
+| /play                 | Play a song from YouTube, SoundCloud, & Spotify                                                                           | /play darude sandstorm                                |
 | /pause                | Pause the current playing song                                                                                            | /pause                                                |
 | /resume               | Resume the current paused song                                                                                            | /resume                                               |
 | /leave                | Leaves voice channel if in one                                                                                            | /leave                                                |
