@@ -107,3 +107,10 @@ A [full list of commands](https://github.com/WilardzySenpai/NinoMusic/blob/main/
 
 ## 📝 License
 This project is released under the [MIT License.](https://github.com/WilardzySenpai/NinoMusic/blob/main/LICENSE)
+
+<h2 align="center">
+  <a href="https://github.com/WilardzySenpai/NinoMusic/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/WilardzySenpai/NinoMusic?style=for-the-badge"></a>
+  <a href="https://github.com/WilardzySenpai/NinoMusic/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/WilardzySenpai/NinoMusic?style=for-the-badge"></a>
+  <a href="https://github.com/WilardzySenpai/NinoMusic/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/WilardzySenpai/NinoMusic?style=for-the-badge"></a>
+  <a href="https://github.com/WilardzySenpai/NinoMusic/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/WilardzySenpai/NinoMusic?style=for-the-badge"></a>
+</h2>
