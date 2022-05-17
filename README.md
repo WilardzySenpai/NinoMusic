@@ -103,3 +103,6 @@ A [full list of commands](https://github.com/WilardzySenpai/NinoMusic/blob/main/
     </tr>
   </tbody>
 </table>
+
+## 📝 License
+This project is released under the [MIT License.](https://github.com/WilardzySenpai/NinoMusic/blob/main/LICENSE)
