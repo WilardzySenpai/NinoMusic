@@ -72,5 +72,34 @@ A [full list of commands](https://github.com/WilardzySenpai/NinoMusic/blob/main/
 
 
                                                                  
-## Samples of the bot
-![Nino...](https://i.imgur.com/4t7xO2V.gif)
+## ✨Nino Some Commands Showcase
+<h2 id="showcase"> 🖼 Showcase </h2>
+<table>
+  <tbody>
+    <tr>
+      <td>/play</td>
+      <td>/nowplaying</td>
+      <td>/lyrics</td>
+    </tr>
+    <tr>
+      <td><img src="https://i.imgur.com/VJFhXZb.gif" alt="play music"></td>
+      <td><img src="https://i.imgur.com/pRUtDsG.gif" alt="nowplaying"></td>
+      <td><img src="https://i.imgur.com/pRUtDsG.gif" alt="lyrics of music"></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<table>
+  <tbody>
+    <tr>
+      <td>/filter</td>
+      <td>/nino</td>
+      <td>/volume</td>
+    </tr>  
+    <tr>
+      <td><img src="https://i.imgur.com/OcG3uJl.gif" alt="add filter to the music"></td>
+      <td><img src="https://cdn.discordapp.com/attachments/975944562709254165/975953251138691072/ezgif-4-6ab9491841.gif" alt="nino pics"></td>
+      <td><img src="https://i.imgur.com/OcG3uJl.gif" alt="adjust the volume"></td>
+    </tr>
+  </tbody>
+</table>
