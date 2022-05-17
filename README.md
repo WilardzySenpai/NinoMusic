@@ -7,6 +7,11 @@
 # 💌 Remember
 Nino is a simple music bot on discord that can support Spotify, SoundCloud and YouTube also Nino can play a direct music link, don't you know that? pretty cool isn't. We hope that Nino can bring happiness to your server's and play Music whenever you all in vc with the very high quality audio, Thank you!
 
+# Join and Invite Nino!
+- Support Server [Click here.](https://discord.gg/DhszDJGp7g)
+- Invite NinoMusic without SlashCommands [Click here.](https://discord.com/oauth2/authorize?client_id=975028020198928404&permissions=3457088&scope=bot)
+- Invite NinoMusic with SlashCommands [Click here.](https://discord.com/oauth2/authorize?client_id=975028020198928404&permissions=3457088&scope=bot%20applications.commands)
+
 ## Supported sources and formats
 - YouTube
 - SoundCloud
