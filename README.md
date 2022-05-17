@@ -24,7 +24,7 @@ Nino is a simple music bot on discord that can support Spotify, SoundCloud and Y
 
 # Commands
 
-A full list of commands for use with NinoMusic
+A [full list of commands](https://github.com/WilardzySenpai/NinoMusic/blob/main/COMMAND.MD) for use with NinoMusic
 
 ## Music
 
