@@ -2,6 +2,7 @@
   <a href="#"><img src="https://i1.sndcdn.com/visuals-Ow0VgMEySp2z76WJ-StC4Pw-t1240x260.jpg" alt="NinoMusic"></a>
   NinoMusic ❤
 </h1>
+<h3 align=center>A Music Discord Bot Built With <a href=https://discord.js.org/#/>Discord.js v13</a> and <a href=https://distube.js.org/#/>DisTube.js</a></h3>
 
 # 💌 Remember
 Nino is a simple music bot on discord that can support Spotify, SoundCloud and YouTube also Nino can play a direct music link, don't you know that? pretty cool isn't. We hope that Nino can bring happiness to your server's and play Music whenever you all in vc with the very high quality audio, Thank you!
