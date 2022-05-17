@@ -70,3 +70,5 @@ A [full list of commands](https://github.com/WilardzySenpai/NinoMusic/blob/main/
 | /rps                  | Play Rock Paper Scissors                                                                                                  | /rps                                               |
 | /say                  | Say something and i will copy it                                                                                          | /say                                                |
 
+## Samples of the bot
+                                                                 ![Nino...](https://i.imgur.com/4t7xO2V.gif)
