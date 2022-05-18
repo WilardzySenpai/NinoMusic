@@ -17,6 +17,7 @@ Nino is a simple music bot on discord that can support Spotify, SoundCloud and Y
 - SoundCloud
 - Spotify
 - HTTP URLs
+- Discord Stage Channels
 
 ## Formats
 - MP3
