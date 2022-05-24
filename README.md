@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="#"><img src="https://i1.sndcdn.com/visuals-Ow0VgMEySp2z76WJ-StC4Pw-t1240x260.jpg" alt="NinoMusic"></a>
+  <a href="#"><img src="https://i.imgur.com/7IgKHXh.jpg" alt="NinoMusic"></a>
   NinoMusic ❤
 </h1>
 <h3 align=center>A Music Discord Bot Built With <a href=https://discord.js.org/#/>Discord.js v13</a> and <a href=https://distube.js.org/#/>DisTube.js</a></h3>
