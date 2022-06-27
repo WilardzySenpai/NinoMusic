@@ -4,6 +4,8 @@
 </h1>
 <h3 align=center>A Music Discord Bot Built With <a href=https://discord.js.org/#/>Discord.js v13</a> and <a href=https://distube.js.org/#/>DisTube.js</a></h3>
 
+# You cannot used/host/release this project in public and claiming it's yours. You can only use this for private/self.
+
 # 💌 Remember
 Nino is a simple music bot on discord that can support Spotify, SoundCloud and YouTube also Nino can play a direct music link, don't you know that? pretty cool isn't. We hope that Nino can bring happiness to your server's and play Music whenever you all in vc with the very high quality audio, Thank you!
 
